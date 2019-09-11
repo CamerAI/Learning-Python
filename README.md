@@ -14,3 +14,10 @@ Python Tutorial Video     https://www.youtube.com/watch?v=rfscVS0vtbw .    https
 
 
 https://developers.google.com/edu/python/introduction
+
+
+
+Python Libraries Tutorials: 
+https://sebastianraschka.com/pdf/books/dlb/appendix_f_numpy-intro.pdf         NUMPY 
+https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html       PANDAS
+https://matplotlib.org/users/beginner                                         MATPLOTLIB
